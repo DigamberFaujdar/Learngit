@@ -1,0 +1,15 @@
+git command =======================================
+
+git init
+git add .
+git status
+git commit -m "comments"
+git push -u origin branch name 
+git log 
+git log --oneline
+git checkout branch name
+git branch branch name
+git branch -> to see list of branch
+git branch branch name -> to create new branch
+git checkout branch name -> to switch another branch name
+ 
